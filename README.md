@@ -1,4 +1,4 @@
-# bombParty
+# Bomb Party
 JKLM Bomb Party Game Helper Tool
 
 # Description
