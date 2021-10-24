@@ -42,7 +42,7 @@ def main():
 
         # Save Image
         image = Image.fromarray(img)
-        image.save("test.png")
+        image.save("screenshot.png")
 
         # Extract text from image
         pytesseract.pytesseract.tesseract_cmd = 'D:\\Tesseract-OCR\\tesseract.exe'
